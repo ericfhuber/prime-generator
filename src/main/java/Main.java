@@ -1,6 +1,6 @@
 public class Main {
     public int generatePrime() {
-        return 10;
+        return 11;
     }
 
     public static void main(String... args) {
